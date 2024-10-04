@@ -1,4 +1,4 @@
-<h1>Passive Low Pass Filters</h1>
+<h1>Passive High Pass Filters</h1>
 
 ### [YouTube Demonstration In Work](INSERTLINK)
 
