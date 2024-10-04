@@ -1,6 +1,6 @@
 <h1>Passive High Pass Filters</h1>
 
-### [YouTube Demonstration In Work](INSERTLINK)
+### [YouTube Demonstration](https://youtu.be/4LzXq5egAh8)
 
 <h2>Description</h2>
 <p>A high-pass filter is an electronic circuit that allows signals with a frequency higher than a certain cutoff frequency to pass through while attenuating signals with lower frequencies. It's commonly used to block low-frequency noise or to enhance high-frequency components in applications such as audio processing, communication systems, and instrumentation. These filters typically consist of passive components like resistors and capacitors and play a key role in shaping the frequency response of electrical signals, ensuring only desired higher frequencies are transmitted effectively.</p>
